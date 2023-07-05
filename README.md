@@ -23,3 +23,9 @@ https://github.com/vazpeitiah/distribuidos | Carlos Pineda Guerrero | Jun 2021 |
 https://github.com/vicleo14/MicrosVH | Victor Hugo Garcia Ortega | 2019 | Desconocido |
 https://github.com/Zait06/Microcontroladores-ESCOM | Juan José Pérez Pérez | 2020 | Desconocido |
 https://github.com/humbertowoody/microcontroladores-escom | Adbel Montes | 2023 | Desconocido |
+
+## Generales
+|Repositorio |Fecha de Actualización| Estado |
+:--- |:---:|:---:|
+https://github.com/Davestring/ESCOM | 2021 | Desconocido |
+
