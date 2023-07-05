@@ -15,3 +15,11 @@ https://github.com/vazpeitiah/distribuidos | Carlos Pineda Guerrero | Jun 2021 |
 [distribuidos-escom-ukranio (2018-1)](https://github.com/emiliano080591/distribuidos-escom-ukranio) - por emiliano080591| Ukranio | 2018 | Desconocido |
 [SistemasDistribuidos](https://github.com/AlanVieyra333/SistemasDistribuidos) - por AlanVieyra333| Ukranio | 2018 | Desconocido |
 [Sistemas_Distribuidos](https://github.com/CallmeTorre/Sistemas_Distribuidos) - por CallmeTorre| Ukranio | 2018 | Desconocido |
+
+## Introducción a los Microcontroladores
+|Repositorio |Profesor |Fecha de Actualización| Estado |
+:--- |:---:|:---:|:---:|
+[https://github.com/vazpeitiah/distribuidos](https://github.com/vazpeitiah/micros) | Juan José Pérez Pérez | 2021 | Desconocido |
+https://github.com/vicleo14/MicrosVH | Victor Hugo Garcia Ortega | 2019 | Desconocido |
+https://github.com/Zait06/Microcontroladores-ESCOM | Juan José Pérez Pérez | 2020 | Desconocido |
+https://github.com/humbertowoody/microcontroladores-escom | Adbel Montes | 2023 | Desconocido |
