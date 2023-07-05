@@ -28,4 +28,13 @@ https://github.com/humbertowoody/microcontroladores-escom | Adbel Montes | 2023 
 |Repositorio |Fecha de Actualización| Estado |
 :--- |:---:|:---:|
 https://github.com/Davestring/ESCOM | 2021 | Desconocido |
+https://github.com/Shane07/ESCOM | 2015 | Desconocido |
+https://github.com/EliothMonroy/ESCOM | 2019 | Desconocido |
+https://github.com/YosafatM/ESCOM | 2022 | Desconocido |
+
+
+
+
+
+
 
